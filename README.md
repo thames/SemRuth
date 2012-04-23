@@ -1,2 +1,2 @@
-SemRuth
-=======
+Seminario de Ruth Thames
+========================
