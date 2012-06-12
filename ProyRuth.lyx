@@ -1,0 +1,282 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass report
+\use_default_options true
+\maintain_unincluded_children false
+\language spanish
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Índice
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 3cm
+\topmargin 3cm
+\rightmargin 3cm
+\bottommargin 3cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Proyecto de Trabajo
+\end_layout
+
+\begin_layout Section*
+Tema: Enseñanza de la Teoría de Conjuntos
+\end_layout
+
+\begin_layout Subsection*
+Alumna: Ruth Thames
+\end_layout
+
+\begin_layout Subsection*
+Director: Antonio Noé Sángari
+\end_layout
+
+\begin_layout Section*
+Fundamentación
+\end_layout
+
+\begin_layout Standard
+Este trabajo propone estudiar la Teoría de Conjuntos en forma ingenua, es
+ decir, sin intuición y desarrollar una secuencia de conceptos tendientes
+ a hacerla accesible a personas con conocimientos limitados de Lógica y
+ Matemática.
+ Comenzaremos dando una reseña histórica, para mostrar la necesidad que
+ percibieron los matemáticos de finales del siglo diecinueve y comienzos
+ del siglo veinte.
+ Algunas de las paradojas que dieron origen a la teoría axiomática de conjuntos
+ son bien conocidas, por ejemplo la de Russel y las de Cantor.
+ 
+\end_layout
+
+\begin_layout Section*
+Planteo del Problema
+\end_layout
+
+\begin_layout Standard
+Aunque para muchos pensadores en lógica y matemática, la teoría de conjuntos
+ es esencial para el entendimiento de las matemáticas, actualmente, las
+ curriculas de las licenciaturas y profesorados en Matemáticas, adolecen
+ de falta de temas relacionados con la teoría de conjuntos.
+ Este problema lo conceptualizamos como grave, y entonces, es nuestra intención
+ solucionarlo brindando una propuesta organizada de enseñanza sobre temas
+ de la teoría de conjuntos.
+ Creemos importante acotar, que no es necesario conceptos muy sofisticados
+ para llegar a un entendimiento relativamente profundo de dicha teoría.
+\end_layout
+
+\begin_layout Section*
+Objetivos
+\end_layout
+
+\begin_layout Itemize
+Diseño de esquema de actividades para la enseñanza de la Teoría de Conjuntos.
+\end_layout
+
+\begin_layout Itemize
+Análisis detallado de las paradojas más comunes de la teoría.
+\end_layout
+
+\begin_layout Section*
+Metodología
+\end_layout
+
+\begin_layout Standard
+Para la fundamentación de la Teoría de Conjuntos haremos primeramente lectura
+ de los textos clásicos 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Halmos ,Klimovsky,Suppes"
+
+\end_inset
+
+ y posteriormente una recolección de bibliografía tanto física como virtual
+ de los temas que nos competen.
+ Estudiaremos y analizaremos esta bibliografía e iremos confeccionando el
+ trabajo final.
+\end_layout
+
+\begin_layout Section*
+Cronograma Tentativo
+\end_layout
+
+\begin_layout Subsection*
+Junio
+\end_layout
+
+\begin_layout Standard
+Estudio de 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Klimovsky"
+
+\end_inset
+
+ para adoptar un enfoque simple y de divulgación para la teoría.
+\end_layout
+
+\begin_layout Subsection*
+Agosto
+\end_layout
+
+\begin_layout Standard
+Estudio de los libros 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Suppes,Halmos "
+
+\end_inset
+
+ y recolección de bibliografía física y virtual.
+\end_layout
+
+\begin_layout Subsection*
+Septiembre
+\end_layout
+
+\begin_layout Standard
+Continuación del estudio de los libros 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Halmos ,Suppes"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Subsection*
+Octubre
+\end_layout
+
+\begin_layout Standard
+Diseño de un esquema de conceptos para adecuar la teoría a su enseñanza.
+ 
+\end_layout
+
+\begin_layout Subsection*
+Noviembre
+\end_layout
+
+\begin_layout Standard
+Conclusiones del tema estudiado.
+ Redacción final del documento.
+\end_layout
+
+\begin_layout Bibliography
+\labelwidthstring Bibliografía
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+label "Su"
+key "Suppes"
+
+\end_inset
+
+ Suppes, P.
+ Teoría Axiomática de Conjuntos.
+ Editorial Norma.
+ Colombia.
+ 1968.
+\end_layout
+
+\begin_layout Bibliography
+\labelwidthstring Bibliografía
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+label "Ha"
+key "Halmos "
+
+\end_inset
+
+Halmos, P.
+ Naive Set Theory.
+ Ed.
+ Van Nostrand Reinhold Company.
+ New York.
+ 1960.
+\end_layout
+
+\begin_layout Bibliography
+\labelwidthstring Bibliografía
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+label "Ba"
+key "Bailey"
+
+\end_inset
+
+Bailey, C.A.R.
+ Lógica y Conjuntos.
+ Editorial Vicens-ives.
+ Barcelona.
+ 1971
+\end_layout
+
+\begin_layout Bibliography
+\labelwidthstring Bibliografía
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+label "Kli"
+key "Klimovsky"
+
+\end_inset
+
+Klimovsky, G.
+ y Boido, G.
+ Desventuras del Pensamiento Matemático.
+ Editorial AZ.
+ Argentina.
+ 2005 
+\end_layout
+
+\end_body
+\end_document
